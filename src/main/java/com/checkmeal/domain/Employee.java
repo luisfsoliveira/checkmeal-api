@@ -1,6 +1,6 @@
 package com.checkmeal.domain;
 
-import com.checkmeal.datacreator.Constants;
+import com.checkmeal.util.Constants;
 import lombok.Data;
 import lombok.Getter;
 import lombok.NonNull;

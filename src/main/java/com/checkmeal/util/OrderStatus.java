@@ -1,4 +1,4 @@
-package com.checkmeal.datacreator;
+package com.checkmeal.util;
 
 public enum OrderStatus {
 

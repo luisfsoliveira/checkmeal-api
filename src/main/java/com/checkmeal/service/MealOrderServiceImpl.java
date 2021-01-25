@@ -1,6 +1,6 @@
 package com.checkmeal.service;
 
-import com.checkmeal.datacreator.OrderStatus;
+import com.checkmeal.util.OrderStatus;
 import com.checkmeal.domain.Dish;
 import com.checkmeal.domain.MealOrder;
 import com.checkmeal.repositories.MealOrderRepository;

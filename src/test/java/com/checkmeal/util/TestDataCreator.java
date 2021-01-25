@@ -1,4 +1,4 @@
-package com.checkmeal.datacreator;
+package com.checkmeal.util;
 
 import com.checkmeal.domain.Employee;
 import com.checkmeal.domain.Role;

@@ -1,6 +1,6 @@
 package com.checkmeal.service;
 
-import com.checkmeal.datacreator.TestDataCreator;
+import com.checkmeal.util.TestDataCreator;
 import com.checkmeal.domain.Employee;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

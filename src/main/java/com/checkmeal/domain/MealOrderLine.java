@@ -1,6 +1,6 @@
 package com.checkmeal.domain;
 
-import com.checkmeal.datacreator.OrderLineStatus;
+import com.checkmeal.util.OrderLineStatus;
 import lombok.Getter;
 import lombok.Setter;
 
